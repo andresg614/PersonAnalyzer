@@ -1,0 +1,6 @@
+com\socialmedia\icp\model\dto\RulePropertyDTO.class
+com\socialmedia\icp\model\dto\PersonDataDTO.class
+com\socialmedia\icp\service\RulesService.class
+com\socialmedia\icp\Analyzer.class
+com\socialmedia\icp\utils\GeneralUtils.class
+com\socialmedia\icp\service\FileService.class
